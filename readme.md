@@ -5,7 +5,7 @@ This repository contains various Django-based projects developed during a Django
 ## Prerequisties
 
 
-1- python version 3.8 or higher
+1- python version 3.8 or higher  
 2- Django installed using ``` pip install django```
 
 ## How to use 
